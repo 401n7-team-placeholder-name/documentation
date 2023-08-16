@@ -1,3 +1,5 @@
+## Team Agreement
+
 Deiosha Sparks, Jerry Barrows-Fitzgerald, Lauren Main, and Manuch Sadri
 
 ### Cooperation Plan
@@ -25,9 +27,10 @@ M-adaptability, handling ambiguity, confidence, collaboration
 3. How can you best utilize these strengths in the execution of your project?
 
 We will communicate between each other, and plan to write tasks to help understand the scope. 
-We want to combine our efforts to create a fun, technically challenging, and a great project. 
-We are dedicated to assigning team members to lead in their individual strengths.
 
+We want to combine our efforts to create a fun, technically challenging, and a great project. 
+
+We are dedicated to assigning team members to lead in their individual strengths.
 
 4. Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 
