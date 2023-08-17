@@ -93,7 +93,11 @@ Non-functional requirements are requirements that are not directly related to th
 
 ### Wireframe
 
-
+![Checkout our Wireframe here](images/wireframe-signup.png)
+![Checkout our Wireframe here](images/wireframe-signin.png)
+![Checkout our Wireframe here](images/wireframe-main.png)
+![Checkout our Wireframe here](images/wireframe-history.png)
+![Checkout our Wireframe here](images/wireframe-about.png)
 
 ## Project Management Board and User Stories in Trello
 
