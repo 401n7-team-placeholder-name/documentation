@@ -103,6 +103,6 @@ Non-functional requirements are requirements that are not directly related to th
 
 [Trello](https://trello.com/b/KQ43ftez/model-match-pro)
 
-## Domain Modeling
+## Domain Modeling and Database Schema
 
 ![Checkout our Domain Model](images/domain-model-db-schema.png)
