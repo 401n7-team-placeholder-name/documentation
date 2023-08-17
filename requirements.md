@@ -105,4 +105,4 @@ Non-functional requirements are requirements that are not directly related to th
 
 ## Domain Modeling
 
-![Checkout our Domain Model](images/)
+![Checkout our Domain Model](images/domain-model-db-schema.png)
